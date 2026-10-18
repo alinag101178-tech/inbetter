@@ -9,20 +9,19 @@ This document serves as a README file that introduces a project by explaining it
 the project does and how to work with it. It also serves as a reference point for future development, troubleshooting, and onboarding new contributors.
 
 
-Task 1: Complete this section and select one of the following scenarios for your AI agent: [Insert your chosen AI agent here]
-1. Study Buddy AI
+Task 1: Complete this section and select one of the following scenarios for your AI agent: [Study Buddy AI]
 
 Task 2: Define the AI agent by brainstorming the answers to the following questions. Add your responses here for Agent Overview:
 
 1. What data does this AI need to collect? [Text, Audio, Numeric, Categorical, Visual]
 
-2. How does it interact with users? [positive, simple, listen to user is pation and good with words and describeing stuff ]
+2. How does it interact with users? [Positive, simple, listens to the user, is patient, and is good with words and describing things ]
 
 3. What decisions does it make? [How to best help the user]
 
 4. What is its main goal? [to help the user best learn the inforrmation]
 
-5. How could it be misused, even if unintentionally? [it could be used to cheate]
+5. How could it be misused, even if unintentionally? [it could be used to cheat]
 
 Task 3: Add your flowchart image here from draw.io "No-Code Programming." 
 
@@ -34,26 +33,28 @@ Task 4. Add your agents Ethical Evaluation descriptions.
 Complete the descriptions below for your AI Agent Design and Ethics Evaluation.
 
 Features	            Agent Task                                      Your Response 
-Scenario Selection    Choose one AI agent scenario           	        [Insert your chosen AI agent]
+Scenario Selection    Choose one AI agent scenario           	        [Study Buddy AI]
 need help studying for a test      Helpful                                  [uplodes all the information to make a study gaide] 
-                      Potentially unethical                             [Description]
-Agent Task #2	      Helpful/ethical                                   [Description] 
-                      Potentially unethical                             [Description]
-Agent Task #3	      Helpful/ethical                                   [Description] 
-Agent Task #4	      Helpful/ethical                                   [Description]
-Agent Task #5	      Helpful/ethical                                   [Description]
-Data Use              What data does this AI need to collect?        	[Insert response]
-User Interaction      How does the AI interact with users?              [Insert response]
-Decision-Making       What decisions does it make and how?    	        [Insert response]
-Main Goal	      What is the AI designed to accomplish?            [Insert response]
-Misuse Risk	      How could the AI be misused or misunderstood?     [Insert response]
+                      Potentially unethical                             [Could help the user cheat or do the work for them]
+Agent Task #2	Explain information clearly      Helpful/ethical                                   [Helps the user understand the information in a simple, clear way] 
+                      Potentially unethical                             [Could give too much detail and make it easy to cheat]
+Agent Task #3	Break down complex topics      Helpful/ethical                                   [Breaks information into small, easy steps so the user can learn better] 
+
+Agent Task #4	Organize study plans      Helpful/ethical                                   [Helps the user create study plans, schedules, and learning goals]
+
+Agent Task #5	Provide supportive learning help      Helpful/ethical                                   [Gives clear explanations, stays respectful, and encourages learning]
+Data Use              What data does this AI need to collect?        	[Text, audio, numeric, categorical, visual]
+User Interaction      How does the AI interact with users?              [Positive, simple, listens to user, patient, good with words and describing stuff]
+Decision-Making       What decisions does it make and how?    	        [Decides how to best help the user]
+Main Goal	      What is the AI designed to accomplish?            [To help the user best learn the information]
+Misuse Risk	      How could the AI be misused or misunderstood?     [It could be used to cheat]
 
 Task 5: Complete the Ethical AI Principles Evaluation questions for your agent.
 
 Principle:	Does your AI uphold this principle? How or why not?
 Equity over efficiency		[farness over anyting no bias unless asked otherwises]
 Transparency and explainability	[It has to be completely transparent on where it gets its information]
-Inclusive design practices	[Your evaluation here]
+Inclusive design practices	[It has to include everyone and be simple and clear for all users]
 Historical and social awareness	[has to be awar not rude and not against anyone based one anything  ]
 
 Task 6. Answer the following final discussion questions.
